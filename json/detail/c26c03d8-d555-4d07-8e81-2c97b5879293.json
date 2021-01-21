@@ -1,0 +1,14 @@
+{
+  "id": "c26c03d8-d555-4d07-8e81-2c97b5879293",
+  "description": "CDB Banco Bari",
+  "profitability": "105% do CDI",
+  "maturityDate": "2020-07-23",
+  "minimumInvestmentValueInCents": 50000,
+  "issuer": "Banco Bari",
+  "ratingValue": "0",
+  "ratingAgency": null,
+  "fgc": true,
+  "ir": true,
+  "administrativeTax": 0,
+  "iofFreeAfter": 30
+}

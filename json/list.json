@@ -1,0 +1,27 @@
+{
+  "page": 0,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "totalPages": 1,
+  "totalItems": 2,
+  "itemsPerPage": 10,
+  "items": [
+    {
+      "id": "c26c03d8-d555-4d07-8e81-2c97b5879293",
+      "description": "CDB Banco Bari",
+      "fgc": true,
+      "minimumInvestmentValueInCents": 50000,
+      "maturityDate": "2020-04-03",
+      "profitability": "105% do CDI"
+    },
+    {
+      "id": "98924d48-4b47-4c42-9ec5-54d2af424881",
+      "description": "CDB Banco Bari Liquidez Diária",
+      "fgc": true,
+      "ir": true,
+      "minimumInvestmentValueInCents": 10000,
+      "maturityDate": "2020-07-23",
+      "profitability": "100% do CDI"
+    }
+  ]
+}
